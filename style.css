@@ -1,0 +1,46 @@
+.one{
+    text-align: justify;
+    color: black;
+    table-layout: auto;
+    position: absolute;
+    justify-content: end;
+
+  
+    
+}
+.two{
+    text-align: center;
+    
+}
+.a{
+    color: black;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+div{
+    background-color: aquamarine;
+    
+}
+.b{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.c{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.d{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    text-align: center;
+}
+h1{
+    color: brown;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+    text-align: center;
+}
